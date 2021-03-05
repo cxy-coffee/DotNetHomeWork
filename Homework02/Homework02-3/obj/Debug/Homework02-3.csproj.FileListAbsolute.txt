@@ -1,0 +1,7 @@
+D:\第4学期课\软件构造基础\Homework02\Homework02-3\bin\Debug\Homework02-3.exe.config
+D:\第4学期课\软件构造基础\Homework02\Homework02-3\bin\Debug\Homework02-3.exe
+D:\第4学期课\软件构造基础\Homework02\Homework02-3\bin\Debug\Homework02-3.pdb
+D:\第4学期课\软件构造基础\Homework02\Homework02-3\obj\Debug\Homework02-3.csprojAssemblyReference.cache
+D:\第4学期课\软件构造基础\Homework02\Homework02-3\obj\Debug\Homework02-3.csproj.CoreCompileInputs.cache
+D:\第4学期课\软件构造基础\Homework02\Homework02-3\obj\Debug\Homework02-3.exe
+D:\第4学期课\软件构造基础\Homework02\Homework02-3\obj\Debug\Homework02-3.pdb
