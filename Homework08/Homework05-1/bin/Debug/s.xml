@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<ArrayOfOrder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Order>
+    <OrderId>5</OrderId>
+    <OrderDetailsList>
+      <OrderDetails>
+        <ProductId>2</ProductId>
+        <ProductName>黄焖鸡</ProductName>
+        <Price>20</Price>
+        <Quantity>2</Quantity>
+        <TotalPrice>40</TotalPrice>
+      </OrderDetails>
+      <OrderDetails>
+        <ProductId>4</ProductId>
+        <ProductName>奶茶</ProductName>
+        <Price>15</Price>
+        <Quantity>3</Quantity>
+        <TotalPrice>45</TotalPrice>
+      </OrderDetails>
+    </OrderDetailsList>
+  </Order>
+  <Order>
+    <OrderId>1</OrderId>
+    <OrderDetailsList>
+      <OrderDetails>
+        <ProductId>1</ProductId>
+        <ProductName>黄焖鸡</ProductName>
+        <Price>20</Price>
+        <Quantity>2</Quantity>
+        <TotalPrice>40</TotalPrice>
+      </OrderDetails>
+    </OrderDetailsList>
+  </Order>
+</ArrayOfOrder>
